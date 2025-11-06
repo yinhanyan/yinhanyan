@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🥬 Here is Hanyan Yin, a MPhil student @[Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/english/index.htm), [Renmin University of China](https://en.ruc.edu.cn/).
+- 🥬 Here is Hanyan Yin, a PhD student @[Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/english/index.htm), [Renmin University of China](https://en.ruc.edu.cn/).
 - 🌱 Currently working on `database`, `streaming algorithm`, `online learning`, `randomized numerical linear algebra`, etc.
 - 📃 [Homepage](https://yinhanyan.github.io/)
 - 📡 BI1TBI
